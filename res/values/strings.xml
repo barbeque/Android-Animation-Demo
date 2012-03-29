@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animated Layout Demo</string>
+    <string name="toggle_other_button">Toggle Other Button</string>
+    <string name="here_i_am">Here I am!</string>
+
+</resources>
